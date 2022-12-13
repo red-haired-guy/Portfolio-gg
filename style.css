@@ -190,6 +190,7 @@ h3{
     margin-right: 50px;
     cursor: pointer;
     position: relative;
+    flex-direction: row;
    
 
 }
